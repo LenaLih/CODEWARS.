@@ -1,0 +1,1 @@
+let dialogsElement = props.dialogsData.map((d) => <DialogName name={d.name} id={d.id} />);
